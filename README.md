@@ -27,7 +27,7 @@
 ## 📊 Performance & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alialfostovar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alialfostovar&theme=tokyonight" height="180px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alialfostovar&theme=tokyonight&hide_border=true" height="180px" />
 </p>
 
