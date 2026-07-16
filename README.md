@@ -9,8 +9,16 @@
 <p align="center">
   <kbd>🚀 Currently: High-Performance APIs with FastAPI</kbd> 
   <kbd>🛠️ Infrastructure: PostgreSQL, Redis, RabbitMQ</kbd> 
-  <kbd>🤖 Focus: ZCore | ZirCore</kbd>
+  <kbd>🤖 Focus: <a href="https://github.com/fastapi-zcore-framework/zcore">ZCore</a></kbd>
 </p>
+
+---
+
+## 🚀 Currently Building & Open Source
+
+I am actively designing and maintaining **[ZCore](https://github.com/fastapi-zcore-framework/zcore)** — a pragmatic architectural layer built on top of FastAPI to standardize enterprise backend structures, manage atomic transactions (UOW), and enforce robust scoped dependency injection.
+
+👉 **Love clean architecture, structured APIs, and elegant code?** Feel free to explore **[ZCore](https://github.com/fastapi-zcore-framework/zcore)** and consider dropping a ⭐ to support its development!
 
 ---
 
