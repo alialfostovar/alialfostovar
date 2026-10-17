@@ -46,7 +46,7 @@ I write in-depth, production-oriented articles breaking down real-world architec
   *Drawing clean boundaries with SQLAlchemy 2.0 without fighting ORM capabilities.*
 - 📑 **[Part 2: The "Pass-Through" Service Trap in FastAPI: Why CRUD Service Layers Often Feel Like Useless Boilerplate](https://zcore.baseryn.com/blog/service-layer-fastapi)**  
   *Eliminating anemic forwarder methods using template lifecycle hooks and transaction awareness.*
-- 📑 **[Part 3: Why Generic CRUD Routers Break in FastAPI: Route Shadowing, Architecture Bypassing, and Pragmatic Fixes](https://zcore.baseryn.com/blog/crud-routers-fastapi)**  
+- 📑 **[Part 3: Why Generic CRUD Routers Break in FastAPI: Route Shadowing, Architecture Bypassing, and Pragmatic Fixes](https://zcore.baseryn.com/blog/crud-router-fastapi)**  
   *Automating RESTful endpoints without bypassing the Service layer or Starlette route evaluation order.*
 
 Find more of my writings on **[Medium](https://medium.com/@alialfostovar)** and **[Dev.to](https://dev.to/alf_26)**.
